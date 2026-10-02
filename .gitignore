@@ -1,0 +1,14 @@
+# --- ASP.NET Core / Visual Studio Secrets & Configs ---
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+*.user
+*.suo
+
+# --- Build & Output Folders ---
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# --- Environment Variables Files ---
+.env
